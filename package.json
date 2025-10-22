@@ -1,11 +1,11 @@
 {
-  "name": "prometheus-ui-library",
+  "name": "elbrus-ui",
   "version": "1.12.0",
   "description": "An simple ui lib from moveup tecnology",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "homepage": "https://moveup-tech.github.io/prometheus/",
+  "homepage": "https://moveup-tech.github.io/elbrus-ui/",
   "devDependencies": {
     "@chromatic-com/storybook": "3.2.2",
     "@rollup/plugin-alias": "^5.1.1",
