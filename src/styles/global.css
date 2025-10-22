@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 255 255 255;
+  --foreground: 0 0 0; 
+
+  --primary-light: 164 244 207;
+  --primary-main: 0 188 125;
+  --primary-dark: 0 79 59;
+
+  --secondary-light: 184 230 254;
+  --secondary-main: 0 166 244;
+  --secondary-dark: 2 74 112;
+}
